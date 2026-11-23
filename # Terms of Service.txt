@@ -1,0 +1,39 @@
+# Terms of Service
+**The Cool App Inventers Discord App**
+
+**Last Updated:** November 23, 2026
+
+## 1. Acceptance of Terms
+By using The Cool App Inventers Discord App ("the App"), you agree to these Terms of Service. If you do not agree, please do not use the App.
+
+## 2. Acceptable Use
+You agree not to:
+- Use the App for illegal activities.
+- Exploit, abuse, or disrupt the App.
+- Attempt to access systems or data without authorization.
+- Use the App to harass, threaten, or harm others.
+
+## 3. Availability
+The App is provided on an "as available" basis. We may update, modify, suspend, or discontinue features at any time.
+
+## 4. Data and Privacy
+The App may process Discord user IDs, server IDs, and information necessary to provide its features. We will not intentionally sell personal information. Please review our Privacy Policy for additional information.
+
+## 5. Third-Party Services
+The App uses Discord and is subject to Discord's Terms of Service and Community Guidelines.
+
+## 6. Disclaimer
+The App is provided without warranties of any kind. We are not responsible for damages resulting from the use or inability to use the App, to the extent permitted by law.
+
+## 7. Termination
+We may restrict or terminate access to the App if these Terms are violated or if necessary to protect the App and its users.
+
+## 8. Changes to These Terms
+We may update these Terms from time to time. Continued use of the App after changes means you accept the updated Terms.
+
+## 9. Contact
+For questions or concerns, contact us through our official Discord server.
+
+---
+
+By using The Cool App Inventers Discord App, you acknowledge that you have read and agree to these Terms.
